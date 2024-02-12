@@ -1,0 +1,27 @@
+
+body{
+    background-color: powderblue;
+}
+.container{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    background-color: aliceblue;
+    width: 400px;
+    height: 400px;
+    
+}
+.container .heading{
+text-align: center;
+ 
+}
+.container .label{
+    margin-left: 20px;
+}
+.container .billamount{
+    margin-left: 20px;
+
+}
+.container input [type="text"] {
+margin-left: 20px;
+}
