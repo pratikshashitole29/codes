@@ -50,7 +50,7 @@ function App() {
    }
    <input type='text' onChange={getData}/>
    <button onClick={()=>setPrint(true)} >Print Data</button>
-    
+    <br></br>
    <Profile/>
    <Login/>
      </div>
