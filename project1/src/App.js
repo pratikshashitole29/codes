@@ -19,11 +19,11 @@ function App() {
  }
 
   
-  function Apple(){
+  // function Apple(){
     
-     alert("function called");
+  //    alert("function called");
    
-  }
+  // }
 
   function updateData(){
     setData(data+1)
